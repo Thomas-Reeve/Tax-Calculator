@@ -5,5 +5,5 @@ Calculates the amount of tax paid in the UK and US based on current tax brackets
 - Customisable Tax Brackets
 - More Default Tax Systens
 - Choose Which Tax Systems to Compare
-- Breakdown of Amount Paid Per Bracket
+- Breakdown of Amount Paid Per Bracket + Comparison
 - Show Average / Marginal Tax Rate Calculation
